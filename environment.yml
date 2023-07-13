@@ -1,0 +1,16 @@
+name: env_smile
+channels:
+  - intel
+  - oxfordcontrol
+  - ccpi
+  - conda-forge
+  - cvxgrp
+  - astra-toolbox
+  - defaults
+dependencies:
+  - ipywidgets[version='<8']
+  - astra-toolbox
+  - cil=23.0.1
+  - astra-toolbox
+  - cil=23.0.1
+  - tomophantom
